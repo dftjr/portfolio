@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Logistics Specialist & Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/dftjr",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "url": "https://www.linkedin.com/in/david-tusia/",
+          "class": "fab fa-linkedin-in"
         }
       ],
       "image": "myProfile.jpg"
