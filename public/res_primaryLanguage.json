@@ -11,14 +11,14 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Chocolate Cake Lab",
+      "startDate": "2022",
+      "description": "A projects where we were only provided the images to a webapge and needed to replicate it as close as we could. We were not allowed to use flex or grid codes. I got mine pretty close, ven has a working checklist as well!",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/project1/p1.jpg",
+        "images/portfolio/project1/p2.jpg"
       ],
-      "url": "",
+      "url": "https://dftjr.github.io/chocolate-pizza/",
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -35,14 +35,13 @@
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "React Lab",
+      "startDate": "2022",
+      "description": "This project requires the use of React. Data is pulled in from a file where the user can select what they want to view and can also like the images they think are cool!",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/project2/p1.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://dftjr-horned-beast.netlify.app/",
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -67,14 +66,13 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "301 Final Project",
+      "startDate": "2022",
+      "description": "This will be an upcoming final project from my 301 course, stay tuned!",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/project3/p1.jpg"
       ],
-      "url": "https://github.com",
+      "url": "",
       "technologies": [
         {
           "class": "devicon-html5-plain",
